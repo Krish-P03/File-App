@@ -1,0 +1,12 @@
+{
+  "name": "file-app",
+  "version": "1.0.0",
+  "description": "https://medium.com/@siddharthpatil9108/how-to-create-file-explorer-using-react-a3b955a117b5    aa site par che aevo same banavno che?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
